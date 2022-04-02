@@ -1,0 +1,2 @@
+# firstJSprogram
+Starting with Javascrip
